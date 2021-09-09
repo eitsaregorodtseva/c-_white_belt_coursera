@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liza/CLionProjects/rational/main.cpp
+iostream
+-
+sstream
+-
+set
+-
+vector
+-
+map
+-
+stdexcept
+-
+exception
+-
+

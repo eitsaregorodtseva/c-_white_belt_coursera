@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liza/CLionProjects/fifthweek/main.cpp
+iostream
+-
+sstream
+-
+algorithm
+-
+string
+-
+map
+-
+set
+-
+iomanip
+-
+exception
+-
+
